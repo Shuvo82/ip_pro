@@ -103,7 +103,7 @@ class _HomePageState extends State<HomePage> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Row(
-                            mainAxisAlignment: MainAxisAlignment.,
+                            mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               const Text(
                                 "City",
